@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Function New-Password {
-=======
- Function New-Password {
->>>>>>> refs/remotes/origin/main
+
     $uppercase = "ABCDEFGHKLMNOPRSTUVWXYZ".tochararray() 
     $lowercase = "abcdefghiklmnoprstuvwxyz".tochararray() 
     $number = "0123456789".tochararray() 
